@@ -1,0 +1,19 @@
+# DataGouv Dashboard Builder - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file support
+
+# Visualization
+plotly>=5.18.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Optional: Enhanced performance
+# streamlit-elements>=0.1.0  # For advanced grid layouts
